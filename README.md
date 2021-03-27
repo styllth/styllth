@@ -1,4 +1,4 @@
-<h1 align="center">Oi, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"/>, eu sou Styllth Saraiva Ribeiro</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"/>Hi, I'm Styllth Saraiva Ribeiro</h1>
 
 <h3 align="center">Full-stack developer learning the best web and mobile development technologies.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=styllth" alt="styllth" /> </p>
