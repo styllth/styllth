@@ -24,21 +24,8 @@
 <br />
 
 <p align="center">
-<img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<img src="https://konpa.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-<img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://konpa.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-<img src="https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-<img src="https://konpa.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-</p>
-
-<br />
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=styllth&theme=gruvbox&show_icons=true" alt="styllth" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=styllth&count_private=true&theme=dracula&show_icons=true" alt="styllth" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=styllth&theme=dracula">
 </p>
 
 <br />
