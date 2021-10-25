@@ -29,6 +29,12 @@
 </p>
 
 <br />
+  
+<p align="center">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=styllth&theme=gruvbox&row=2&column=3&margin-w=15&margin-h=15" alt="styllth" />
+</p>
+
+<br />
 
 <p align="center">
   <a href="https://linkedin.com/in/styllth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="styllth" height="20" width="20" /></a>
