@@ -1,43 +1,66 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"/>Hi, I'm Styllth Saraiva Ribeiro</h1>
+<img align="right" height="500em" src="https://sdk.bitmoji.com/render/panel/6f6cc826-edb3-4535-bac2-f740fa0a0bf9-7c086a79-4b04-43c8-92c0-bd9d235273f4-v1.png?transparent=1&palette=1"/>
+
+<h1 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"/>Hi, I'm Styllth</h1>
 
 <h3 align="center">Full-stack developer learning the best web and mobile development technologies.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=styllth" alt="styllth" /> </p>
 
-## :computer: Programming Languages
+![profile](https://komarev.com/ghpvc/?username=styllth&color=red)
 
-<a href="https://www.javascript.com/"> ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=yellow)</a>
-<a href="https://www.typescriptlang.org/"> ![TypeScript Badge](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript&logoColor=blue)</a>
-<a href="https://pt-br.reactjs.org//"> ![React Badge](https://img.shields.io/badge/-React-black?style=black&logo=react&logoColor=61DAFB)<a/>
-<a href="https://nodejs.org/en/">![Node.js Badge](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js&logoColor=green)<a/>
-<a href="https://reactnative.dev///"> ![React Native Badge](https://img.shields.io/badge/-React_Native-black?&style=flat&logo=react&logoColor=61DAFB)<a/>
-<a href="https://expo.io/"> ![Expo Badge](https://img.shields.io/badge/-Expo-black?&style=flat&logo=expo&logoColor=4C35E3)<a/>
-<a href="https://www.php.net"> ![PHP Badge](https://img.shields.io/badge/-PHP-black?style=flat&logo=php&logoColor=blue)</a>
-<a href="https://www.laravel.com"> ![Laravel Badge](https://img.shields.io/badge/-Laravel-black?style=black&logo=laravel&logoColor=red)</a>
-
-## 🗄️ Databases
-
-<a href="https://www.postgresql.org/"> ![PostgreSQL Badge](https://img.shields.io/badge/-PostgresQL-blue?style=flat&logo=postgresql&logoColor=white)<a/>
-<a href="https://www.mysql.com/"> ![Mysql Badge](https://img.shields.io/badge/-MySql-blue?style=flat&logo=oracle&logoColor=white)<a/>
-<a href="https://www.microsoft.com/pt-br/sql-server/sql-server-2019"> ![SQL Server Badge](https://img.shields.io/badge/-Microsoft_SQL_Server-blue?style=flat&logo=microsoft&logoColor=white)<a/>
-<a href="https://www.mongodb.com/"> ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-blue?style=flat&logo=mongodb&logoColor=white)<a/>
+## :computer: Tech Stack
   
-<br />
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript Badge](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=blue)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=black&logo=laravel&logoColor=red)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![Mysql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=oracle&logoColor=007ACC)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+![SQL Server](https://img.shields.io/badge/-Microsoft_SQL_Server-05122A?style=flat&logo=microsoft&logoColor=007ACC)
+![Oracle](https://img.shields.io/badge/-Oracle_Database-05122A?style=flat&logo=oracle&logoColor=007ACC)
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=styllth&count_private=true&theme=dracula&show_icons=true" alt="styllth" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=styllth&theme=dracula">
+<br /> <br />
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+  
+  ![styllth stars](https://github-readme-stats.vercel.app/api?username=styllth&count_private=true&theme=dracula&show_icons=true)
+  
+  ![styllth most language](https://github-readme-stats.vercel.app/api/top-langs/?username=styllth&theme=dracula)
+
 </p>
 
 <br />
-  
+
+## 🧑 Social Links
+
+<p align="left" style="background:blue">
+<a href="https://codepen.io/styllth" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-codepen-05122A?style=flat&logo=codepen" alt="codepen"/>
+</a>
+<a href="https://linkedin.com/in/styllth" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://fb.com/styllth" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-facebook-05122A?style=flat&logo=facebook" alt="linkedin" />
+</a>
+<a href="https://instagram.com/styllth" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+<a href="https://youtube.com/styllth" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-youtube-05122A?style=flat&logo=youtube" alt="youtube"/>
+</a>
+</p>
+
+## 🏆 Profile Trophy
 <p align="center">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=styllth&theme=gruvbox&row=2&column=3&margin-w=15&margin-h=15" alt="styllth" />
-</p>
-
-<br />
-
-<p align="center">
-  <a href="https://linkedin.com/in/styllth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="styllth" height="20" width="20" /></a>
-  <a href="https://fb.com/styllth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="styllth" height="20" width="20" /></a>
-  <a href="https://instagram.com/styllth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="styllth" height="20" width="20" /></a>
 </p>
